@@ -1,0 +1,9 @@
+header #navbar-bottom .main-menu-sub > ul {
+
+    padding: 0;
+    margin: 0;
+    background-color: #AF491F;
+    height: 45px;
+    border-radius: 8px;
+
+}
